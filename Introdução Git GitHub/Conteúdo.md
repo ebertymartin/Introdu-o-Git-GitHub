@@ -164,7 +164,7 @@ Baixa o histórico e incorpora as mudanças
 
 
 
-![Captura de tela 2022-11-13 214957](https://user-images.githubusercontent.com/117953029/201562554-74a98081-4eee-472c-b2b6-d62b59876940.png)
-![GIT-Tutorial-Para-Iniciantes](https://user-images.githubusercontent.com/117953029/201562576-5a6cb120-f42d-4c53-b1e0-4cab3a1f56a4.png)
+
+
 **[Referência](https://training.github.com/downloads/pt_BR/github-git-cheat-sheet.pdf)**
 https://training.github.com
