@@ -1,20 +1,8 @@
-# DIO Desafio Git GitHub
+# Desafio de Projeto Git/GitHub - DIO
 
+### Bem vind@ à folha de dicas Git
 
-
-Repositorio criado para o Desafio de Projeto - Git/GitHub
-
-
-
-
-
-Conheça alguns códigos do Git/GitHub
-
-
-
-
-
-
+**- Links e códigos.**
 
 
 
